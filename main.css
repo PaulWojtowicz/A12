@@ -1,1 +1,23 @@
 
+body{
+    background-color: #7e608d;
+}
+
+h1{
+    color: #efebeb;
+    text-align: center;
+    font-size: 65px;
+}
+
+p{
+    text-align: center;
+    color: #d1cfd3;
+    font-size: 50px;
+}
+
+footer{
+    text-align: center;
+    color: #e7a80a;
+    font-size: 21px;
+    clear: both;
+}
